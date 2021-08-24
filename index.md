@@ -1,6 +1,6 @@
-Welcome to the personal website of Uraikus. I have a few projects I'm working on below:
+Welcome to the personal website of Uraikus. All the projects below have been developed singlehandedly. 
 
-# Active Projects
+# Personal Projects
 
 [Uraikus IDE](https://ide.uraik.us) - An IDE that minifies and singlefies projects into a single .html file with a virtual file system. I use this on various networks that can be hard to acquire better software.
 
@@ -17,6 +17,14 @@ Welcome to the personal website of Uraikus. I have a few projects I'm working on
 [Crelm Popup](https://www.npmjs.com/package/crelm-popup) - A small (<2kb), simple popup component with responsive design using the crelm library. Crelm is the only dependency.
 
 [Crease](https://www.npmjs.com/package/crease) - The super lightweight, fully tested, simple, and easy CSS by JS module. Create CSS with Ease.
+
+# Work Projects
+
+**C2 Console** - A Command and Control (C2) server that has automated checklists, events logs, reporting tools, agile task manager, common operating enviroment (PortalC2), and a database intel tool for developing Enlisted Performence Reports.
+
+**CP Console** - A Command Post console, similiar to the C2 Console but it is custom built browser (with full browser functionality) with custom apps for checklists, reports, and a training suite similiar to blackboard.
+
+**Reports Wizard** - A reporting tool that develops several kinds of reports, such as Operational Reports (OPREP), Defense Support to Civil Authorities (DSCA), and HURCON (Hurricane Condition). 
 
 # Archived Projects
 
