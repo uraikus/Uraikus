@@ -2,6 +2,8 @@ Welcome to the personal website of Uraikus. All the projects below have been dev
 
 # Personal Projects
 
+[PatrickTrester.com](https://patricktrester.com) - My personal site where I review books that I'm reading. It's built on the Edge, where each page is compiled and stored in a Google Bucket. Each page is then cached all over the world for a fast response and Search Engine Optimization.
+
 [Uraikus IDE](https://ide.uraik.us) - An IDE that minifies and singlefies projects into a single .html file with a virtual file system. I use this on various networks that can be hard to acquire better software.
 
 [Post Scrambler](https://scrambler.uraik.us) - This essentially makes memes that are designed to be hard to read by AI.
