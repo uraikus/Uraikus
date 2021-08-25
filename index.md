@@ -10,7 +10,7 @@ Welcome to the personal website of Uraikus. All the projects below have been dev
 
 [PDF to Checklist](https://pdf-to-checklist.uraik.us) - This program allows you to upload a pdf, it will then respond with any sentence that contains will, shall, or must, with a checkbox and rational for completion/fail.
 
-[Calender Printout](https://calendar.uraik.us) - This is just a simple program for generating a planner printout each month.
+[Calender Printout](http://calendar.uraik.us) - This is just a simple program for generating a planner printout each month.
 
 [Crelm](https://www.npmjs.com/package/crelm) - The exceptionally small (3.9kb), super fast, independent, fully tested, and modular javascript library that simplifies and expedites page work flows.
 
