@@ -26,6 +26,7 @@ connect(postgresqlConnection:String)
 sql(sql:String, sqlVariables:Array)
 status(httpCode:Number)
 getHeader(header:String)
+redirect(url:String)
 send(response:Any) // Objects will automatically send with JSON headers
 fetch(url:String, options:Object) // Mirrors client JS fetch function
 ```
