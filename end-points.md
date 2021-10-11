@@ -8,10 +8,19 @@ connect(env.connectionString)
 let rows = await sql("select now()")
 send(rows[0].now + '<br>User Agent: ' + getHeader('user-agent'))
 
-// Proxy
+// Simple Proxy
 let req = await fetch(query.url, {method: method, body: JSON.stringify(json)})
 let response = await req.text()
 send(response)
+
+/* 
+  Uraik.us SSO Validation
+  With your client, include your public key in as the authorization header: 'Bearer ' + sso.publicKey
+  See https://sso.uraik.us/api/
+*/
+let userId = await validate() // Will be null on fail
+if (userId) send(200)
+else send(401)
 ```
 # Global Variables
 ```js
