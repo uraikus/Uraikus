@@ -6,6 +6,8 @@ Welcome to the personal website of Uraikus. All the projects below have been dev
 
 [Uraikus IDE](https://ide.uraik.us) - An IDE that minifies and singlefies projects into a single .html file with a virtual file system. I use this on various networks that can be hard to acquire better software.
 
+[Bible](https://bible.uraik.us) - A Progressive Web App that contains various offline creeds, catechisms, confessions, Bible Translations (ESV Online, KJV, WEB, & ASV Offline), Offline Trinity Psalter (in-works), and a church information file containing bulletin, announcements, prayer requests, etc, (todo).
+
 [Uraikus SSO](https://sso.uraik.us) - uraik.us anonymous Single Sign-On (SSO) is a secure, fast, and simple login tool that doesn't track its users. With bot-stopping mechanisms and pre-generated passcodes, its never been easier to make an account or to implement SSO. [Check out the API.](https://sso.uraik.us/api/)
 
 [Uraikus Cloud Functions](https://www.uraik.us/end-points.html) **IN-WORK** A fast and easy to use cloud function system that integrates with the Uraikus IDE.
